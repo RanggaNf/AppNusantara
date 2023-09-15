@@ -21,5 +21,6 @@
         android:text="Aplikasi Saya"
         android:textSize="24sp"
         android:textStyle="bold" />
+        Coba push & comit
 
 </RelativeLayout>
