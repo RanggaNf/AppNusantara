@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">Nusantara Ku</string>
+    <string name="alam_name">Nama Destinasy Nusantara</string>
+    <string name="description">Deskripsi</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string name="about">about</string>
+
+
+    <string-array name="data_name">
+        <item>Raja Ampat, Papua</item>
+        <item>Danau Toba, Sumatra Utara</item>
+        <item>Gunung Bromo, Jawa Timur</item>
+        <item>Taman Nasional Komodo, Nusa Tenggara Timur</item>
+        <item>Pulau Bali, Bali</item>
+        <item>Taman Nasional Bromo Tengger Semeru, Jawa Timur</item>
+        <item>Danau Kelimutu, Nusa Tenggara Timur</item>
+        <item>Taman Nasional Bukit Barisan Selatan, Sumatra</item>
+        <item>Pantai Pink, Nusa Tenggara Timur</item>
+        <item>Pulau Lombok, Nusa Tenggara Barat</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Raja Ampat adalah surga bawah laut di Indonesia. Terletak di Papua Barat, tempat ini terkenal dengan keindahan terumbu karangnya yang tak tertandingi, air jernih, dan keanekaragaman hayati laut yang luar biasa. Raja Ampat juga merupakan rumah bagi sekitar 75% spesies terumbu karang dunia. Selain snorkeling dan menyelam yang menakjubkan, pulau ini menawarkan pantai berpasir putih yang indah, air terjun alami yang mengagumkan, dan budaya yang kaya dari suku asli Papua. Tempat ini merupakan destinasi impian bagi para penyelam dan pecinta alam yang ingin menjelajahi keindahan alam bawah laut yang belum terjamah.</item>
+        <item>Danau Toba adalah danau kawah vulkanik terbesar di dunia, terletak di Sumatera Utara, Indonesia. Danau Toba membentuk lanskap spektakuler dengan pulau tengahnya, Pulau Samosir. Danau ini terbentuk akibat letusan super volcano massif sekitar 75.000 tahun yang lalu. Airnya jernih dan dikelilingi oleh pegunungan hijau yang mempesona. Selain menjadi atraksi alam yang luar biasa, Danau Toba juga memiliki nilai budaya yang kaya dengan masyarakat Batak Toba yang tinggal di sekitarnya. Ini adalah tujuan wisata populer untuk rekreasi, renang, dan menjelajahi keindahan alam serta budaya Indonesia.</item>
+        <item>Gunung Bromo adalah salah satu gunung berapi paling terkenal di Indonesia yang terletak di Taman Nasional Bromo Tengger Semeru, Jawa Timur. Gunung ini terkenal karena pesona alamnya yang menakjubkan. Bromo memiliki kawah yang aktif dan sering meletus, mengeluarkan asap dan abu yang menciptakan lanskap gurun vulkanik yang kering. Keindahan Gunung Bromo semakin ditingkatkan oleh latar belakangnya yang megah, termasuk Gunung Semeru, puncak tertinggi di Pulau Jawa. Pemandangan matahari terbit dari Gunung Pananjakan adalah daya tarik utama yang memikat ribuan pengunjung setiap tahunnya. Ini adalah surga bagi para pecinta fotografi dan petualang alam.</item>
+        <item>Pulau Komodo, terletak di Indonesia tenggara, terkenal karena menjadi rumah bagi kadal purba langka, Komodo. Pulau ini merupakan bagian dari Taman Nasional Komodo yang menjadi Situs Warisan Dunia UNESCO. Pulau ini menawarkan pemandangan alam yang mengagumkan, dengan perbukitan tandus, pantai berpasir putih, dan terumbu karang yang indah. Selain bertemu dengan kadal Komodo, pengunjung dapat melakukan trekking untuk mengeksplorasi keindahan alam, menyelam di perairan kaya biota, atau bersantai di pantai yang eksotis. Pulau Komodo adalah destinasi yang menakjubkan bagi para pencinta alam dan penggemar petualangan.</item>
+        <item>Pulau Bali, terletak di Indonesia, adalah surga tropis yang memikat wisatawan dari seluruh dunia. Terkenal dengan pantainya yang indah, hutan hujannya yang megah, dan budayanya yang unik. Pulau ini menawarkan pesona alam yang menakjubkan seperti Gunung Agung yang megah dan sawah terasering yang hijau. Selain itu, Bali juga kaya akan seni dan budaya, dengan tari-tarian tradisional, patung-patung khas, dan kuil-kuil yang menawan. Pusat kehidupan malamnya yang hidup dan masakan lokal yang lezat membuatnya menjadi tempat yang sempurna untuk mengeksplorasi dan bersantai. Bali adalah destinasi impian bagi mereka yang mencari petualangan, ketenangan, dan pengalaman budaya yang mendalam.</item>
+        <item>Gunung Semeru adalah gunung berapi tertinggi di Pulau Jawa, Indonesia. Terletak di Taman Nasional Bromo Tengger Semeru, Semeru adalah puncak utama dari Pegunungan Tengger, dengan ketinggian 3.676 meter di atas permukaan laut. Semeru dikenal sebagai "Mahameru" atau "Gunung Mahameru" dan dianggap sebagai gunung paling suci dalam mitologi Jawa. Pendakian ke puncak Semeru adalah pengalaman yang menantang dengan medan berbatu, pasir, dan cuaca yang berubah-ubah. Puncak Semeru menawarkan pemandangan spektakuler serta kawah berapi yang sering meletus, menciptakan suasana yang megah dan menarik bagi para pendaki dan pencinta alam.</item>
+        <item>Danau Kalimutu adalah salah satu tujuan wisata terkenal di Indonesia yang terletak di pulau Flores, Nusa Tenggara Timur. Danau ini menarik perhatian para pengunjung dengan keunikan tiga danau kawahnya yang memiliki warna air yang berbeda-beda. Ketiga danau ini sering berubah warna, dari merah ke coklat, dan bahkan hitam. Fenomena ini disebabkan oleh perubahan mineral dan gas vulkanik di dalam danau. Danau Kalimutu juga terkenal karena suasana alamnya yang indah dan hening, dengan pemandangan matahari terbit yang spektakuler. Ini adalah tempat yang cocok bagi para pelancong yang mencari pengalaman alam yang unik dan eksotis di Indonesia.</item>
+        <item>Bukit Barisan adalah rangkaian pegunungan yang membentang sepanjang sekitar 1.700 kilometer di sepanjang Pulau Sumatra, Indonesia. Rangkaian pegunungan ini menghadap Samudera Hindia di sebelah barat dan membentuk batas alami antara dataran tinggi pedalaman Sumatra dan wilayah pesisir. Bukit Barisan terdiri dari puncak-puncak tinggi, lembah, dan hutan tropis yang sangat beragam secara ekologis. Daerah ini juga rumah bagi banyak spesies unik, termasuk harimau Sumatra dan badak bercula satu. Bukit Barisan juga memiliki nilai budaya yang penting, dengan berbagai suku dan komunitas adat yang tinggal di wilayah ini.</item>
+        <item>Pulau Pink, juga dikenal sebagai Pulau Komodo, terletak di Indonesia bagian timur. Pulau ini terkenal karena pasir pantainya yang berwarna merah muda yang unik, yang disebabkan oleh endapan karang merah yang terbawa oleh ombak. Pulau ini juga merupakan rumah bagi Komodo, spesies kadal raksasa yang hanya ditemukan di wilayah ini. Para pengunjung dapat menjelajahi keindahan bawah lautnya yang kaya akan terumbu karang, snorkeling, atau menyaksikan Komodo dalam habitat alaminya di Taman Nasional Komodo yang terdekat. Pulau Pink adalah destinasi yang luar biasa untuk menjelajahi keanekaragaman alam Indonesia dan pesona pantainya yang langka.</item>
+        <item>Lombok, sebuah pulau indah di Indonesia, terkenal dengan keindahan alamnya yang menakjubkan. Terletak di sebelah timur Bali, Lombok menawarkan pantai berpasir putih yang mempesona, seperti Pantai Kuta dan Pantai Senggigi. Gunung Rinjani, gunung berapi tertinggi di pulau ini, adalah tujuan pendakian populer dengan pemandangan spektakuler dari puncaknya. Selain itu, Lombok memiliki budaya Sasak yang kaya, yang tercermin dalam seni, tarian, dan kerajinan tangan mereka. Pulau ini juga terkenal dengan perhiasan mutiara berkualitas tinggi. Lombok adalah surga wisatawan yang mencari petualangan alam dan pengalaman budaya yang otentik.</item>
+
+    </string-array>
+    <integer-array name="data_photo">
+        <item>@drawable/raja_ampat</item>
+        <item>@drawable/danau_toba</item>
+        <item>@drawable/gunung_bromo</item>
+        <item>@drawable/pulau_komodo</item>
+        <item>@drawable/bali</item>
+        <item>@drawable/semeru</item>
+        <item>@drawable/danau_kalimutu</item>
+        <item>@drawable/bukit_barisan</item>
+        <item>@drawable/pulau_pink</item>
+        <item>@drawable/pulau_lombok</item>
+        <item>@drawable/foto_me</item>
+        <item>@drawable/circle_background</item>
+        <item>@drawable/rounded_button</item>
+        <item>@drawable/splash_background</item>
+        <item>@drawable/splash_logo</item>
+
+    </integer-array>
+</resources>
